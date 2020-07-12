@@ -10,11 +10,10 @@
 ### Add Form Screen
 <img src="screens/add-screen.png" height="500em" />
 
-
-## Getting Started
-
 ## Author
 This project built by [quangtuyendev](https://github.com/quangtuyendev)
+
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
